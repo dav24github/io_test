@@ -1,0 +1,9 @@
+$bgColor: red;
+
+.hello {
+  background-color: $bgColor;
+
+  span {
+    background-color: green;
+  }
+}
